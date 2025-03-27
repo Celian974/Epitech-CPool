@@ -19,5 +19,6 @@ void my_sort_int_array(int *array, int size);
 //exercises from Day 5 of the CPool
 int my_compute_factorial_it(int nb);
 int my_compute_factorial_rec(int nb);
+int my_compute_power_it(int nb, int p);
 
 #endif
